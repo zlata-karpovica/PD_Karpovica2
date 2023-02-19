@@ -1,2 +1,3 @@
 from math import*
-print(fmod(5,2))
+print(fmod(10,2))
+#Karpovica
